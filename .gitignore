@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# All Others I Don't Wanna See
+*.sh
+*.o
+*.kernel
+*.bin
